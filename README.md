@@ -11,7 +11,7 @@ Demonstration + Short Explanation: https://bit.ly/Brain-Controlled-Prosthetic-De
 Demonstration only: https://bit.ly/CDT-Alzheimers-iOS-App
 
 
-3: Speech to Emotion Apple Watch App using NLP for Neurodivergent individuals
+3: Speech to Emotion Apple Watch App using NLP for Neurodivergent individuals (bioxml hackathon project)
 Demonstration + walkthrough: https://bit.ly/Speech-Emotion-Demo
 
 
