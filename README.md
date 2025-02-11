@@ -16,6 +16,5 @@ Demonstration + walkthrough: https://bit.ly/Speech-Emotion-Demo
 
 
 4: Cricket Computer Vision Training desktop based webapp Walkthrough
-Demonstration + walk-through + success crit check: [https://bit.ly/CV-Cricket-Training-Application](https://bit.ly/CV_Cricket_Training_Application)
-
+Demonstration + walk-through + success crit check: https://bit.ly/Cricket-Training-CV-Application
 
