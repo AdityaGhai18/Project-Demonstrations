@@ -23,16 +23,16 @@ Demonstration + walkthrough: https://bit.ly/Speech-Emotion-Demo
 
 Demonstration + walk-through + success crit check: https://bit.ly/Cricket-Training-CV-Application
 
-5: Hamilton: LLM-based Multi-agent AI Senator Debate simulation [https://devpost.com/software/hamilton-h09ikr](Calhacks-Devpost)
+5: Hamilton: LLM-based Multi-agent AI Senator Debate simulation [Calhacks-Devpost](https://devpost.com/software/hamilton-h09ikr)
 
 Demonstration: https://bit.ly/Multi-Agent-AI-Senate
 
-6: Reinforcement Learning based Robotic Arm simulation to locate and reach cube [https://docs.google.com/presentation/d/1xN_Cs_Vm5ZCfTWNSYoeX_OprZjV126fZk6cy4v-dX2U/edit?usp=sharing](Presentation)
+6: Reinforcement Learning based Robotic Arm simulation to locate and reach cube [Presentation](https://docs.google.com/presentation/d/1xN_Cs_Vm5ZCfTWNSYoeX_OprZjV126fZk6cy4v-dX2U/edit?usp=sharing)
 
 Demonstration: https://bit.ly/RL-Arm-Simulation
 
 7: End-to-End Finetuning Large Language Model based on task-specific web-scraping powered by computer-use agents
 
-(Treehacks-Devpost)[https://devpost.com/software/blacksmtih?_gl=1*cmr0nd*_gcl_au*NDAzMjY2MjMwLjE3MzkyNDg3ODc.*_ga*ODExMDAzMjU5LjE3MzkyNDg3ODg.*_ga_0YHJK3Y10M*MTc0MTIwNTYyMS4yMy4xLjE3NDEyMDU2MzAuMC4wLjA]
+[Treehacks-Devpost](https://devpost.com/software/blacksmtih?_gl=1*cmr0nd*_gcl_au*NDAzMjY2MjMwLjE3MzkyNDg3ODc.*_ga*ODExMDAzMjU5LjE3MzkyNDg3ODg.*_ga_0YHJK3Y10M*MTc0MTIwNTYyMS4yMy4xLjE3NDEyMDU2MzAuMC4wLjA)
 
 Demonstration: https://www.youtube.com/watch?v=d9Wftder1oU
