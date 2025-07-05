@@ -34,3 +34,7 @@ Demonstration: https://bit.ly/RL-Arm-Simulation
 7: End-to-End Finetuning Large Language Model based on task-specific web-scraping powered by computer-use agents: [Treehacks-Devpost](https://devpost.com/software/blacksmtih?_gl=1*cmr0nd*_gcl_au*NDAzMjY2MjMwLjE3MzkyNDg3ODc.*_ga*ODExMDAzMjU5LjE3MzkyNDg3ODg.*_ga_0YHJK3Y10M*MTc0MTIwNTYyMS4yMy4xLjE3NDEyMDU2MzAuMC4wLjA)
 
 Demonstration: https://www.youtube.com/watch?v=d9Wftder1oU
+
+8: Applying reinforcement learning and Vision-Language-Models to fighting games [Github-repo](https://github.com/AdityaGhai18/fight-me)
+
+Demonstration: https://youtu.be/9xbVs3dH0Nk
