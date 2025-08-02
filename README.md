@@ -38,3 +38,9 @@ Demonstration: https://www.youtube.com/watch?v=d9Wftder1oU
 8: Applying reinforcement learning and Vision-Language-Models to fighting games [Github-repo](https://github.com/AdityaGhai18/fight-me)
 
 Demonstration: https://youtu.be/9xbVs3dH0Nk
+
+9: Gamified math learning platform tailored to the Australian school curriculum, leveraging JavaScript, Chakra UI, and modular custom components for a seamless UX. Integrated Supabase authentication and database to securely manage student profiles and question data.
+
+[Github-repo](https://github.com/AdityaGhai18/EdTech), [Demonstration](https://drive.google.com/file/d/15HiUUM4Z5uK3yqki7fxsFAugNOLCmEwt/view?usp=sharing)
+
+
